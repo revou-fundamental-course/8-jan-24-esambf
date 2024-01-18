@@ -1,0 +1,36 @@
+h1 h2 {
+    font-family: calibri;
+    line-height: 1.75em;
+}
+p {
+    font-family: calibri;
+    line-height: 1.75em;
+}
+img {
+    width: 400px;
+    height: 290px;
+}
+.container {
+    text-align: center
+}
+
+.container .judul{
+    background-color: #2C97DF;
+    color: aliceblue;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 10px;
+}
+
+button{
+  background:#2C97DF;
+  color:white;
+  border-top:0;
+  border-left:0;
+  border-right:0;
+  border-bottom:5px solid #2A80B9;
+  padding:10px 20px;
+  text-decoration:none;
+  font-family:sans-serif;
+  font-size:11pt;
+}
